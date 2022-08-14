@@ -16,7 +16,7 @@
 
    6.2 Tabloların Fiziksel Bağlantılarının Yapılması
 
-   6.3 Forward Engineering - Veri Tabanı Şemasının Oluşturulması (EER Diagram)
+   6.3 Forward Engineering - Veri Tabanı Şemasının Oluşturulması 
 
    6.4 Reverse Engineering - Var Olan Veri Tabanı ile Çalışma 
 
