@@ -10,19 +10,21 @@
 
 5. Temel SQL Sorguları
 
-6. MySQL ve MsSQL Veritabanı Yönetimi
+6. Veritabanı Yönetimi (MySQL & MsSQL)
 
- 6.1 Veri Tabanı Diagramı ile Çalışma
+   6.1 Veri Tabanı Diagramı ile Çalışma
 
- 6.2 Tabloların Fiziksel Bağlantılarının Yapılması
+   6.2 Tabloların Fiziksel Bağlantılarının Yapılması
 
- 6.3 Forward Engineering - Veri Tabanı Şemasının Oluşturulması (EER Diagram)
+   6.3 Forward Engineering - Veri Tabanı Şemasının Oluşturulması (EER Diagram)
 
- 6.4 Reverse Engineering - Var Olan Veri Tabanı ile Çalışma 
+   6.4 Reverse Engineering - Var Olan Veri Tabanı ile Çalışma 
 
- 6.5 Generate Scripts - Veri Tabanındaki Bilgilerin Saklanması
+   6.5 Generate Scripts - Veri Tabanındaki Bilgilerin Saklanması
 
- 6.6 Northwind - Hazır Veri Tabanı Kullanımı 
+   6.6 Northwind - Hazır Veri Tabanı Kullanımı 
+ 
+ 
 
 7. İleri Seviye SQL Sorguları
 
