@@ -24,8 +24,6 @@
 
    6.6 Northwind - Hazır Veri Tabanı Kullanımı 
  
- 
-
 7. İleri Seviye SQL Sorguları
 
 8. Profesyonel Veritabanı Tasarım Örnekleri
