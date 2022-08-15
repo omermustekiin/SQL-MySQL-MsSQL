@@ -29,3 +29,9 @@
 8. Profesyonel Veritabanı Tasarım Örnekleri
 
 9. İndex Yapısı ile Sorgu Performansı
+
+   9.1 Index Nedir?
+
+   9.2 Clustered Index
+
+   9.3 Non-Clustered Index
